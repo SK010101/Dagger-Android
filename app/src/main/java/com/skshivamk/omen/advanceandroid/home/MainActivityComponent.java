@@ -17,7 +17,7 @@ public interface MainActivityComponent extends AndroidInjector<MainActivity> {
 
         @Override
         public void seedInstance(MainActivity instance) {
-
+            
         }
     }
 }
